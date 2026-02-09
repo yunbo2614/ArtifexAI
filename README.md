@@ -1,9 +1,5 @@
 # Artifex AI: Full-Stack AI-Embedded Social Networking Platform
 
-![GitHub stars](https://img.shields.io/github/stars/yunbo2614/SocialAI)
-![GitHub forks](https://img.shields.io/github/forks/yunbo2614/SocialAI)
-![GitHub license](https://img.shields.io/github/license/yunbo2614/SocialAI)
-
 Artifex AI is a scalable, full-stack social networking application built with **React** (frontend), **Go microservices** (backend), and deployed on **Google App Engine**. The platform integrates the **DALL·E 3 API** for AI-generated images and features real-time search, personalized feeds, and performant caching — making it ideal for exploring modern web architecture and AI-enhanced social tooling.
 
 ---

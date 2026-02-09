@@ -47,5 +47,5 @@ Make sure you have the following installed:
 ### Clone & Install
 
 ```bash
-git clone https://github.com/yunbo2614/SocialAI.git
+git clone https://github.com/yunbo2614/ArtifexAI.git
 cd SocialAI
